@@ -22,7 +22,7 @@ const achievementsData = [
       ru: "Первая степень"
     },
     image: `${diplom}`,
-    certificateUrl: "https://drive.google.com/file/d/1PuZlznSMam_UEp1TotAdyQZdCUqWIwCI/view?usp=sharing",
+    certificateUrl: "https://drive.google.com/file/d/1YM4sIjYryrvSfvmm4ZyL-vWI7wGuvU-D/view?usp=sharing",
     icon: Trophy,
     color: "from-yellow-500 to-orange-500",
   },
